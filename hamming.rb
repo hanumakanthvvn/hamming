@@ -1,3 +1,3 @@
 class Hamming
-puts "Hello"
+                     puts "Hello"
 end
