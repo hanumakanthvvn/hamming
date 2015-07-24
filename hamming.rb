@@ -1,3 +1,3 @@
-  class Hamming
+   class Hamming
                      puts "Hello"
   end
